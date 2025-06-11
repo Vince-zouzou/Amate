@@ -1,0 +1,6 @@
+streamlit
+openai
+python-dotenv
+duckduckgo-search
+requests
+beautifulsoup4
